@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+}
+.button {
+    border: none;
+    color: red;
+    padding: 25px 75px;
+    text-align: left;
+    font-size: 20px;
+    margin: 22px 22px;
+    background-color: rgb(179, 136, 178);
+}
+.left {
+    text-align: center;
+}
